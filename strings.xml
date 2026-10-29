@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ગુજરાતી રિમાઇન્ડર</string>
+    <string name="add">નવું રિમાઇન્ડર ઉમેરો</string>
+    <string name="edit_title">રિમાઇન્ડરમાં ફેરફાર</string>
+    <string name="empty">હજી કોઈ રિમાઇન્ડર નથી.\nનીચેનું બટન દબાવીને ઉમેરો.</string>
+    <string name="title_hint">શીર્ષક</string>
+    <string name="note_hint">નોંધ (વૈકલ્પિક)</string>
+    <string name="save">સાચવો</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="yes">હા</string>
+    <string name="delete">કાઢી નાખો</string>
+    <string name="delete_confirm">આ રિમાઇન્ડર કાઢી નાખવું છે?</string>
+    <string name="menu_theme">થીમ</string>
+    <string name="menu_export">બેકઅપ Export</string>
+    <string name="menu_import">બેકઅપ Import</string>
+    <string name="err_title">કૃપા કરીને શીર્ષક લખો</string>
+    <string name="err_past">ભવિષ્યનો સમય પસંદ કરો</string>
+    <string name="export_ok">બેકઅપ ફાઇલ સાચવાઈ</string>
+    <string name="import_ok">%d રિમાઇન્ડર પુનઃસ્થાપિત થયા</string>
+    <string name="import_fail">ફાઇલ માન્ય નથી અથવા વાંચી શકાઈ નહીં</string>
+    <string name="import_confirm">Import કરવાથી હાલના બધા રિમાઇન્ડર બદલાઈ જશે. ચાલુ રાખવું છે?</string>
+    <string name="done_label">પૂર્ણ</string>
+    <string name="exact_title">ચોક્કસ સમયની પરવાનગી</string>
+    <string name="exact_msg">સમયસર એલાર્મ માટે \"Alarms &amp; reminders\" પરવાનગી ચાલુ કરો.</string>
+    <string name="open_settings">સેટિંગ્સ</string>
+    <string name="later">પછી</string>
+    <string name="notif_channel">રિમાઇન્ડર</string>
+
+    <string-array name="repeat_options">
+        <item>એક વાર</item>
+        <item>દરરોજ</item>
+        <item>દર અઠવાડિયે</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>સિસ્ટમ મુજબ</item>
+        <item>લાઇટ</item>
+        <item>ડાર્ક</item>
+    </string-array>
+    <string name="notif_off">નોટિફિકેશન બંધ છે. ફોન સેટિંગ્સ → એપ્સ → ગુજરાતી રિમાઇન્ડર → નોટિફિકેશન ચાલુ કરો.</string>
+</resources>
